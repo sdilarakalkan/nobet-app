@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957233717779",
+    "project_id": "nobetapp-ac5e2",
+    "storage_bucket": "nobetapp-ac5e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957233717779:android:e3ecf6bfa1f53d0e7d15e6",
+        "android_client_info": {
+          "package_name": "com.sdilarakalkan.nobetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCu9EQJpCHW9bqEwQG4kekMJKXF2aJLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
